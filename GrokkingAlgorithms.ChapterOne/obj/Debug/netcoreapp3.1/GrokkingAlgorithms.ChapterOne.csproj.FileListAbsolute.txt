@@ -1,0 +1,13 @@
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.exe
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.deps.json
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.runtimeconfig.json
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.runtimeconfig.dev.json
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.dll
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\bin\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.pdb
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.csprojAssemblyReference.cache
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.AssemblyInfoInputs.cache
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.AssemblyInfo.cs
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.csproj.CoreCompileInputs.cache
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.dll
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.pdb
+C:\projects\GrokkingAlgorithms\GrokkingAlgorithms.ChapterOne\obj\Debug\netcoreapp3.1\GrokkingAlgorithms.ChapterOne.genruntimeconfig.cache
